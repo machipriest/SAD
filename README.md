@@ -22,10 +22,10 @@
 - [專題資源](#專題資源)
 
 ## 💯指派作業
-- **作業一**
+- **作業一 <心智圖架構>**
 > [心智圖連結](https://gitmind.com/app/docs/m3wnjzsz) <br />
-> 影片連結(製作中) <br />
-> 簡報連結(製作中)
+> [影片連結](https://youtu.be/YykQ55HCKwo) <br />
+> [簡報連結](https://drive.google.com/file/d/1NOT18sjHYwDGYXwV5Z4xIpWkbtQzl1NP/view?usp=share_link)
 
 ## ⌚學習時程
 <table>
