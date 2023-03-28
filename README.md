@@ -42,9 +42,9 @@
     </tr>
     <tr>
         <td align="center">第1周</td>
-        <td align="center">?/??~?/??</td>
+        <td align="center">3/27~4/2</td>
         <td align="center">基礎知識學習與目標確定</td>
-        <td align="center">待開始</td>
+        <td align="center">進行中</td>
         <td align="center">➖</td>
     </tr>
     <tr>
@@ -57,14 +57,14 @@
     <tr>
         <td align="center">第3周</td>
         <td align="center">?/??~?/??</td>
-        <td align="center">智能合約與乙太坊連結學習</td>
+        <td align="center">hardhat學習</td>
         <td align="center">待開始</td>
         <td align="center">➖</td>
     </tr>
     <tr>
         <td align="center">第4周</td>
         <td align="center">?/??~?/??</td>
-        <td align="center">智能合約與乙太坊連結學習</td>
+        <td align="center">hardhat學習</td>
         <td align="center">待開始</td>
         <td align="center">➖</td>
     </tr>
