@@ -25,7 +25,11 @@
 - **作業一 <心智圖架構>**
 > [心智圖連結](https://gitmind.com/app/docs/m3wnjzsz) <br />
 > [影片連結](https://youtu.be/YykQ55HCKwo) <br />
-> [簡報連結](https://drive.google.com/file/d/1NOT18sjHYwDGYXwV5Z4xIpWkbtQzl1NP/view?usp=share_link)
+> [簡報連結](https://drive.google.com/file/d/1NOT18sjHYwDGYXwV5Z4xIpWkbtQzl1NP/view?usp=share_link) <br />
+>> 註：心智圖已更新，影片內容以及簡報架構為3/28凌晨錄製，目前與實際方向有極大差距，以下是重點更改項目 <br />
+>> &ensp;&ensp;&ensp;  1. 新增「集成專案」區，以學習hardhat為基礎 <br />
+>> &ensp;&ensp;&ensp;  2. 以註解表示將大幅削弱「智能合約」區的學習、開發優先度與重要性 <br />
+>> &ensp;&ensp;&ensp;  3. 更正第3~4週目標為hardhat學習
 
 ## ⌚學習時程
 <table>
