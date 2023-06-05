@@ -100,11 +100,5 @@
 
 
 ## 🖥專題進度
-- **week 01**
-- **week 02**
-- **week 03**
-- **week 04**
-- **week 05**
-- **week 06**
-- **week 07**
-- **week 08**
+- [簡報](https://github.com/machipriest/SAD/blob/main/SAD%20%E6%9C%9F%E6%9C%AB.pdf)
+- [figma](https://www.figma.com/proto/KfeWknXuVgHKtqAkiir56G/prototype?node-id=1-4&starting-point-node-id=1%3A4)
