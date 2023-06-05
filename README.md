@@ -102,3 +102,4 @@
 ## 🖥專題進度
 - [簡報](https://github.com/machipriest/SAD/blob/main/SAD%20%E6%9C%9F%E6%9C%AB.pdf)
 - [figma](https://www.figma.com/proto/KfeWknXuVgHKtqAkiir56G/prototype?node-id=1-4&starting-point-node-id=1%3A4)
+- [YT連結](https://www.youtube.com/watch?v=AVqxqS57YHg)
